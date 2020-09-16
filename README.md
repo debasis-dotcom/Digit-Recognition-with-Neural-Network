@@ -1,2 +1,2 @@
-# Mnist-data-Neural-Network
+# Digit Recognition with Neural-Network
 Built a simple neural network model to classify number
