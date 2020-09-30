@@ -1,2 +1,2 @@
-# Digit Recognition with Neural-Network
+# Digit Recognition using CNN
 Built a simple neural network model to classify number
